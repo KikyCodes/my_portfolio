@@ -24,7 +24,7 @@ export function Projects() {
       title: "My Portfolio",
       description: "A responsive portfolio website showcasing projects and skills with modern design.",
       technologies: ["TypeScript", "React", "Next.js"],
-      githubUrl: "https://github.com/KikyCodes?tab=repositories",
+      githubUrl: "https://github.com/KikyCodes/my_portfolio",
     },
   ]
 
